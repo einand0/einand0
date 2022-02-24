@@ -1,6 +1,6 @@
 ## :raising_hand_man: What's Up?
 
-<h4> I'm Fernando Lopes, i live in São Gonçalo - RJ :house: and i'm 25 years old!
+<h3> I'm Fernando Lopes, i live in São Gonçalo - RJ :house: and i'm 25 years old!
   <br><br>
 
 I'm degreeing in information systems :student: and i'm currently studying to become a web developer :technologist:
@@ -8,7 +8,7 @@ I'm degreeing in information systems :student: and i'm currently studying to bec
 Here, i'll showcase my personal projects and the challenges i'll make to improve my abilities :ledger:
 <br><br>
 Hope u guys enjoy and i'll let my social medias bellow in case you want to contact me to come up with any project or maybe a job application! :laughing:
-              <h4>
+              <h3>
 
 <br>
 
