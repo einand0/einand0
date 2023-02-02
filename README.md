@@ -1,6 +1,6 @@
 ## :raising_hand_man: What's Up?
 
-<h3> I'm Fernando Lopes, i live in São Gonçalo - RJ :house: and i'm 25 years old!
+<h3> I'm Fernando Lopes, i live in São Gonçalo - RJ :house: and i'm 26 years old!
   <br><br>
 
 I'm degreeing in information systems :student: and i'm currently studying to become a web developer :technologist:
