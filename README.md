@@ -1,6 +1,6 @@
 ## :raising_hand_man: What's Up?
 
-<h3> I'm Fernando Lopes, I live in São Paulo - SP :house: and I'm 26 years old!
+<h3> I'm Fernando Lopes, I live in São Paulo - SP :house: and I'm 27 years old!
   <br><br>
 
 I'm majoring in Information Systems :student: and i'm currently studying to become a web developer :technologist:
