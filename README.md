@@ -9,7 +9,7 @@ Atualmente, estou em busca de crescer e me desenvolver na área de desenvolvimen
 - Padrões de design de software
 - Frameworks como Spring
 - Boas práticas de desenvolvimento e testes
-- 
+
 🔍 O que busco:
 Estou buscando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores e reais, além de me conectar com outros profissionais da área.
 
