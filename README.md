@@ -1,17 +1,47 @@
-## Olá! Eu sou o Fernando 👋 ##
-🔹 Idade: 28 anos
-🔹 Localização: São Paulo, SP, Brasil
+# 👋 Opa! Eu sou o Fernando
 
-Atualmente, estou em busca de crescer e me desenvolver na área de desenvolvimento de software. Sou estudante de Java e estou focado em me tornar um desenvolvedor back-end. Tenho uma paixão por criar soluções escaláveis e eficientes, e o Java tem sido a minha principal linguagem para alcançar esse objetivo.
+🎓 Tenho 28 anos, moro em São Paulo e sou estudante de **Sistemas de Informação**. Minha jornada na programação começou na faculdade, mas a curiosidade falou mais alto e fui além: fiz um curso completo de desenvolvimento web, onde aprendi **HTML, CSS, JavaScript e React**.
 
-💻 O que estou aprendendo:
-- Estruturas de dados e algoritmos
-- Padrões de design de software
-- Frameworks como Spring
-- Boas práticas de desenvolvimento e testes
+🚀 Em 2023, concluí esse curso e decidi mergulhar de vez no que realmente curti: o **desenvolvimento back-end**. Desde então, venho focando em **Java com Spring Boot**, aprendendo a criar APIs, aplicar autenticação com JWT, usar Swagger, fazer testes unitários e muito mais.
 
-🔍 O que busco:
-Estou buscando oportunidades para aplicar e expandir meus conhecimentos em projetos desafiadores e reais, além de me conectar com outros profissionais da área.
+---
 
-🚀 Objetivos:
-Me tornar um profissional de destaque no desenvolvimento back-end, sempre aprimorando minhas habilidades e compartilhando meu aprendizado com a comunidade.
+## 💻 Tecnologias e Ferramentas
+
+**Back-end:**
+- Java (com foco em Java 17+)
+- Spring Boot
+- JPA / Hibernate
+- Autenticação com JWT
+- Swagger
+- Testes Unitários (JUnit)
+
+**Front-end:**
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React
+
+**Banco de Dados:**
+- PostgreSQL
+- MySQL
+
+**Outros:**
+- Git & GitHub
+- Docker (em aprendizado)
+- VS Code / IntelliJ
+
+---
+
+## 📌 Atualmente...
+
+- 📚 Estou finalizando minha graduação em Sistemas de Informação
+- 🔧 Desenvolvendo projetos pessoais (incluindo um **Task Manager com autenticação JWT**)
+- 🎯 Focado em conquistar minha primeira vaga como **Dev Java Jr.**
+
+---
+
+## 📈 GitHub Stats
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=einand0&show_icons=true&theme=radical)
+
