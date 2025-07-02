@@ -1,44 +1,32 @@
-# 👋 Opa! Eu sou o Fernando
+## 👋 Opa! Eu sou o Fernando
 
-🎓 Tenho 28 anos, moro em São Paulo e sou estudante de **Sistemas de Informação**. Minha jornada na programação começou na faculdade, mas a curiosidade falou mais alto e fui além: fiz um curso completo de desenvolvimento web, onde aprendi **HTML, CSS, JavaScript e React**.
+🎓 Tenho 28 anos, moro em São Paulo e sou estudante de Sistemas de Informação. Minha jornada na programação começou na faculdade, mas a curiosidade me levou além: fiz um curso completo de desenvolvimento web, onde aprendi HTML, CSS, JavaScript e React.
 
-🚀 Em 2023, concluí esse curso e decidi mergulhar de vez no que realmente curti: o **desenvolvimento back-end**. Desde então, venho focando em **Java com Spring Boot**, aprendendo a criar APIs, aplicar autenticação com JWT, usar Swagger, fazer testes unitários e muito mais.
+🧠 Após me aprofundar por um tempo no back-end com Java e Spring Boot, decidi voltar meu foco para o que mais me empolga: o desenvolvimento front-end, com React e TypeScript! Estou constantemente estudando e criando projetos para aprimorar minhas habilidades na construção de interfaces modernas, acessíveis e performáticas.
 
----
-
-## 💻 Tecnologias e Ferramentas
-
-**Back-end:**
-- Java (com foco em Java 17+)
-- Spring Boot
-- JPA / Hibernate
-- Autenticação com JWT
-- Swagger
-- Testes Unitários (JUnit)
-
+** #💻 Tecnologias que estou utilizando:**
 **Front-end:**
-- HTML5
-- CSS3
+- HTML5, CSS3
 - JavaScript (ES6+)
-- React
+- TypeScript
+- React (Hooks, Context API, React Router)
+- Styled Components / Tailwind CSS
 
-**Banco de Dados:**
-- PostgreSQL
-- MySQL
-
-**Outros:**
+**Ferramentas:**
 - Git & GitHub
+- VS Code
+- Figma (para consumo de layouts)
 - Docker (em aprendizado)
-- VS Code / IntelliJ
 
----
+**Conhecimentos adicionais:**
+- Experiência anterior com Java, Spring Boot e PostgreSQL
+- APIs RESTful
+- Testes com JUnit (back-end)
 
-## 📌 Atualmente...
-
-- 📚 Estou finalizando minha graduação em Sistemas de Informação
-- 🔧 Desenvolvendo projetos pessoais (incluindo um **Task Manager com autenticação JWT**)
-- 🎯 Focado em conquistar minha primeira vaga como **Dev Java Jr.**
-
+📌 Atualmente...
+📚 Finalizando a graduação em Sistemas de Informação
+👨‍💻 Criando projetos front-end com React e TypeScript
+🎯 Focado em conquistar minha primeira oportunidade como Desenvolvedor Front-end Jr
 ---
 
 ## 📈 GitHub Stats
