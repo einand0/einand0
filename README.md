@@ -4,7 +4,7 @@
 
 🧠 Após me aprofundar por um tempo no back-end com Java e Spring Boot, decidi voltar meu foco para o que mais me empolga: o desenvolvimento front-end, com React e TypeScript! Estou constantemente estudando e criando projetos para aprimorar minhas habilidades na construção de interfaces modernas, acessíveis e performáticas.
 
-** #💻 Tecnologias que estou utilizando:**
+#💻 Tecnologias que estou utilizando:
 
 **Front-end:**
 - HTML5, CSS3
@@ -28,6 +28,7 @@
 📚 Finalizando a graduação em Sistemas de Informação
 👨‍💻 Criando projetos front-end com React e TypeScript
 🎯 Focado em conquistar minha primeira oportunidade como Desenvolvedor Front-end Jr
+
 ---
 
 ## 📈 GitHub Stats
