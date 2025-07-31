@@ -28,7 +28,9 @@
   
 📌 Atualmente...
 📚 Finalizando a graduação em Sistemas de Informação
+
 👨‍💻 Desenvolvendo projetos back-end com Java e Spring Boot
+
 🎯 Em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior
 
 ---
