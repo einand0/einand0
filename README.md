@@ -1,10 +1,17 @@
 ## 👋 Opa! Eu sou o Fernando
 
-🎓 Tenho 28 anos, moro em São Paulo e sou estudante de Sistemas de Informação. Minha jornada na programação começou na faculdade, mas a curiosidade me levou além: fiz um curso completo de desenvolvimento web, onde aprendi HTML, CSS, JavaScript e React.
+🎓 Tenho 29 anos, moro em São Paulo e sou estudante de Sistemas de Informação. Minha jornada na programação começou na faculdade, mas a curiosidade me levou além: fiz um curso completo de desenvolvimento web, onde aprendi HTML, CSS, JavaScript e React.
 
-🧠 Após me aprofundar por um tempo no back-end com Java e Spring Boot, decidi voltar meu foco para o que mais me empolga: o desenvolvimento front-end, com React e TypeScript! Estou constantemente estudando e criando projetos para aprimorar minhas habilidades na construção de interfaces modernas, acessíveis e performáticas.
+🧠 Atualmente, meu foco está no desenvolvimento back-end com Java, utilizando Spring Boot para construir APIs robustas, seguras e bem estruturadas. Tenho aplicado meus conhecimentos em projetos próprios, integrando autenticação com JWT, banco de dados PostgreSQL e boas práticas de arquitetura.
 
 💻 Tecnologias que estou utilizando:
+
+**Back-end:**
+- Java
+- Spring Boot (Spring Security, JWT, JPA, Validation)
+- PostgreSQL
+- APIs RESTful
+- Testes com JUnit
 
 **Front-end:**
 - HTML5, CSS3
@@ -18,16 +25,11 @@
 - VS Code
 - Figma (para consumo de layouts)
 - Docker (em aprendizado)
-
-**Conhecimentos adicionais:**
-- Experiência anterior com Java, Spring Boot e PostgreSQL
-- APIs RESTful
-- Testes com JUnit (back-end)
   
 📌 Atualmente...
 📚 Finalizando a graduação em Sistemas de Informação
-👨‍💻 Criando projetos front-end com React e TypeScript
-🎯 Focado em conquistar minha primeira oportunidade como Desenvolvedor Front-end Jr
+👨‍💻 Desenvolvendo projetos back-end com Java e Spring Boot
+🎯 Em busca da minha primeira oportunidade como Desenvolvedor Back-end Júnior
 
 ---
 
