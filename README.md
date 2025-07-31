@@ -27,6 +27,7 @@
 - Docker (em aprendizado)
   
 📌 Atualmente...
+
 📚 Finalizando a graduação em Sistemas de Informação
 
 👨‍💻 Desenvolvendo projetos back-end com Java e Spring Boot
